@@ -1,4 +1,4 @@
-![logo](https://github.com/Rohit5950/Rohit5950/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png)
+![logo](https://github.com/Rohit5950/Rohit5950/blob/main/Gray%20White%20Minimalist%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rohit raj</h1>
 <h3 align="center">An Aspiring Data analyst From India</h3>
 
